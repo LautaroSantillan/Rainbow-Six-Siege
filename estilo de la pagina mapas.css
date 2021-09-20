@@ -1,0 +1,8 @@
+.grid {
+    gap: 2px;
+}
+
+.logo a:hover, .logo a:active {
+    background-color: rgb(146, 136, 120);
+    border: 1px solid white;
+}
